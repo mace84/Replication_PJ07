@@ -1,0 +1,66 @@
+## Duke PS 303-MLE: Replication
+## Matthias Orlowski
+## 03/15/12
+## JAGS model for conditional model 2 
+
+model {
+  # base level (commodity, country year), regressors: production, consumption
+  for(i in 1:n){
+    y[i] ~ dnorm(mu.y[i],tau.y)
+    mu.y[i] <- a[1]*prod[i] + a[2]*cons[i]
+    + u.cy[countryyear[i]]*con[i] + u.com[commodity[i]]*con[i]
+    residual[i]  <- y[i] - mu.y[i]
+  }
+  # take random selection of residuals
+  for(i in 1:60){
+    p[i] <- 1/60
+  }
+  choose ~ dcat(p[])
+  residual.mix <- residual[choose]
+
+  # priors
+  tau.y ~ dgamma(.01,.01)
+  sigma.y  <- sqrt(1/tau.y)
+
+  for(p1 in 1:2){
+    a[p1] ~ dnorm(mu.a[p1],tau.a[p1])
+    mu.a[p1] ~ dnorm(0,.01)
+    tau.a[p1] ~ dgamma(.01,.01)
+  }
+  
+  # country-year level. regresors: agr share in gdp, gdp pc, land per labor,
+  # ruralpop, personal vote, cox threshold, political contraints, year
+  for(j in 1:J){
+    u.cy[j] ~ dnorm(mu.cy[j],tau.cy)
+    mu.cy[j] <- b[1]*agsh[j] + b[2]*gdp[j] + b[3]*labland[j] 
+    + b[4]*rurpop[j] + b[5]*pvote[j] + b[6]*cox[j] + b[7]*pcons[j] 
+    + b[8]*year[j] + u.ctr[country[j]]
+  }
+  
+  # priors
+  tau.cy ~ dgamma(.01,.01)
+  sigma.cy <- sqrt(1/tau.cy)
+  
+  for(p2 in 1:8){
+    b[p2] ~ dnorm(mu.b[p2],tau.b[p2])
+    mu.b[p2] ~ dnorm(0,.01)
+    tau.b[p2] ~ dgamma(.01,.01)
+  }
+
+  # country level. no regressors
+  for(k in 1:K){
+    u.ctr[k] ~ dnorm(mu.ctr,tau.ctr)
+  }
+  # priors
+  tau.ctr ~ dgamma(.01,.01)
+  sigma.ctr <- sqrt(1/tau.ctr)
+  mu.ctr ~ dnorm(0,.01)
+  
+  # commodity level. no regressors
+  for(l in 1:L){
+    u.com[l] ~ dnorm(mu.com,tau.com)
+  }
+  tau.com ~ dgamma(.01,.01)
+  sigma.com <- sqrt(1/tau.com)
+  mu.com ~ dnorm(0,.01)
+}

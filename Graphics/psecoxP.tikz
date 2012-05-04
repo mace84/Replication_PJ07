@@ -1,0 +1,535 @@
+% Created by tikzDevice version 0.6.2 on 2012-04-11 12:50:38
+% !TEX encoding = UTF-8 Unicode
+\documentclass[10pt]{article}
+\usepackage{tikz}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{sfmath}
+\usepackage[active,tightpage,psfixbb]{preview}
+
+\PreviewEnvironment{pgfpicture}
+
+\setlength\PreviewBorder{0pt}
+\begin{document}
+
+\begin{tikzpicture}[x=1pt,y=1pt]
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+\fill[color=fillColor,fill opacity=0.00,] (0,0) rectangle (397.48,397.48);
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] ( 52.86, 49.87) rectangle (385.44,385.44);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+
+\draw[fill opacity=0.00,draw opacity=0.00,] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base east,inner sep=0pt, outer sep=0pt, scale=  0.96] at ( 45.75,120.95) {0};
+
+\node[color=drawColor,anchor=base east,inner sep=0pt, outer sep=0pt, scale=  0.96] at ( 45.75,181.54) {20};
+
+\node[color=drawColor,anchor=base east,inner sep=0pt, outer sep=0pt, scale=  0.96] at ( 45.75,242.12) {40};
+
+\node[color=drawColor,anchor=base east,inner sep=0pt, outer sep=0pt, scale=  0.96] at ( 45.75,302.71) {60};
+
+\node[color=drawColor,anchor=base east,inner sep=0pt, outer sep=0pt, scale=  0.96] at ( 45.75,363.29) {80};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\draw[color=drawColor,line width= 0.2pt,line cap=round,line join=round,fill opacity=0.00,] ( 48.59,124.26) -- ( 52.86,124.26);
+
+\draw[color=drawColor,line width= 0.2pt,line cap=round,line join=round,fill opacity=0.00,] ( 48.59,184.84) -- ( 52.86,184.84);
+
+\draw[color=drawColor,line width= 0.2pt,line cap=round,line join=round,fill opacity=0.00,] ( 48.59,245.43) -- ( 52.86,245.43);
+
+\draw[color=drawColor,line width= 0.2pt,line cap=round,line join=round,fill opacity=0.00,] ( 48.59,306.01) -- ( 52.86,306.01);
+
+\draw[color=drawColor,line width= 0.2pt,line cap=round,line join=round,fill opacity=0.00,] ( 48.59,366.60) -- ( 52.86,366.60);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] ( 52.86, 49.87) rectangle (385.44,385.44);
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 52.86, 49.87) rectangle (385.44,385.44);
+
+\draw[fill opacity=0.00,draw opacity=0.00,] (370.32,147.99) circle (  2.13);
+
+\draw[fill opacity=0.00,draw opacity=0.00,] (188.77,190.99) circle (  2.13);
+
+\draw[fill opacity=0.00,draw opacity=0.00,] (123.47,337.63) circle (  2.13);
+
+\draw[fill opacity=0.00,draw opacity=0.00,] (123.24,291.29) circle (  2.13);
+
+\draw[fill opacity=0.00,draw opacity=0.00,] (146.18,299.31) circle (  2.13);
+
+\draw[fill opacity=0.00,draw opacity=0.00,] (270.85,177.01) circle (  2.13);
+
+\draw[fill opacity=0.00,draw opacity=0.00,] (215.99,157.54) circle (  2.13);
+
+\draw[fill opacity=0.00,draw opacity=0.00,] (122.01,324.99) circle (  2.13);
+
+\draw[fill opacity=0.00,draw opacity=0.00,] ( 67.98,342.21) circle (  2.13);
+
+\draw[fill opacity=0.00,draw opacity=0.00,] (112.41,215.25) circle (  2.13);
+
+\draw[fill opacity=0.00,draw opacity=0.00,] (351.17,192.04) circle (  2.13);
+\definecolor[named]{fillColor}{rgb}{0.74,0.79,0.83}
+
+\draw[fill=fillColor,fill opacity=0.40,draw opacity=0.00,] ( 67.98,370.19) --
+	( 71.80,366.88) --
+	( 75.63,363.58) --
+	( 79.46,360.29) --
+	( 83.29,357.02) --
+	( 87.11,353.77) --
+	( 90.94,350.54) --
+	( 94.77,347.32) --
+	( 98.59,344.12) --
+	(102.42,340.94) --
+	(106.25,337.78) --
+	(110.08,334.65) --
+	(113.90,331.54) --
+	(117.73,328.45) --
+	(121.56,325.40) --
+	(125.39,322.37) --
+	(129.21,319.37) --
+	(133.04,316.41) --
+	(136.87,313.47) --
+	(140.69,310.58) --
+	(144.52,307.72) --
+	(148.35,304.90) --
+	(152.18,302.12) --
+	(156.00,299.39) --
+	(159.83,296.70) --
+	(163.66,294.05) --
+	(167.48,291.46) --
+	(171.31,288.91) --
+	(175.14,286.41) --
+	(178.97,283.97) --
+	(182.79,281.57) --
+	(186.62,279.23) --
+	(190.45,276.95) --
+	(194.27,274.71) --
+	(198.10,272.53) --
+	(201.93,270.40) --
+	(205.76,268.33) --
+	(209.58,266.30) --
+	(213.41,264.33) --
+	(217.24,262.41) --
+	(221.06,260.53) --
+	(224.89,258.70) --
+	(228.72,256.91) --
+	(232.55,255.17) --
+	(236.37,253.46) --
+	(240.20,251.80) --
+	(244.03,250.17) --
+	(247.85,248.58) --
+	(251.68,247.02) --
+	(255.51,245.50) --
+	(259.34,244.00) --
+	(263.16,242.53) --
+	(266.99,241.09) --
+	(270.82,239.68) --
+	(274.64,238.29) --
+	(278.47,236.92) --
+	(282.30,235.58) --
+	(286.13,234.25) --
+	(289.95,232.94) --
+	(293.78,231.65) --
+	(297.61,230.38) --
+	(301.43,229.12) --
+	(305.26,227.88) --
+	(309.09,226.66) --
+	(312.92,225.44) --
+	(316.74,224.24) --
+	(320.57,223.05) --
+	(324.40,221.87) --
+	(328.22,220.70) --
+	(332.05,219.55) --
+	(335.88,218.40) --
+	(339.71,217.26) --
+	(343.53,216.13) --
+	(347.36,215.01) --
+	(351.19,213.89) --
+	(355.01,212.78) --
+	(358.84,211.68) --
+	(362.67,210.59) --
+	(366.50,209.50) --
+	(370.32,208.42) --
+	(370.32, 65.13) --
+	(366.50, 68.57) --
+	(362.67, 72.01) --
+	(358.84, 75.44) --
+	(355.01, 78.87) --
+	(351.19, 82.29) --
+	(347.36, 85.70) --
+	(343.53, 89.10) --
+	(339.71, 92.50) --
+	(335.88, 95.89) --
+	(332.05, 99.27) --
+	(328.22,102.64) --
+	(324.40,106.00) --
+	(320.57,109.35) --
+	(316.74,112.68) --
+	(312.92,116.01) --
+	(309.09,119.32) --
+	(305.26,122.62) --
+	(301.43,125.91) --
+	(297.61,129.18) --
+	(293.78,132.43) --
+	(289.95,135.67) --
+	(286.13,138.89) --
+	(282.30,142.09) --
+	(278.47,145.27) --
+	(274.64,148.43) --
+	(270.82,151.57) --
+	(266.99,154.68) --
+	(263.16,157.77) --
+	(259.34,160.83) --
+	(255.51,163.86) --
+	(251.68,166.86) --
+	(247.85,169.83) --
+	(244.03,172.77) --
+	(240.20,175.67) --
+	(236.37,178.53) --
+	(232.55,181.36) --
+	(228.72,184.14) --
+	(224.89,186.88) --
+	(221.06,189.58) --
+	(217.24,192.23) --
+	(213.41,194.83) --
+	(209.58,197.38) --
+	(205.76,199.88) --
+	(201.93,202.34) --
+	(198.10,204.74) --
+	(194.27,207.08) --
+	(190.45,209.38) --
+	(186.62,211.62) --
+	(182.79,213.80) --
+	(178.97,215.94) --
+	(175.14,218.02) --
+	(171.31,220.05) --
+	(167.48,222.03) --
+	(163.66,223.96) --
+	(159.83,225.84) --
+	(156.00,227.68) --
+	(152.18,229.47) --
+	(148.35,231.22) --
+	(144.52,232.93) --
+	(140.69,234.60) --
+	(136.87,236.23) --
+	(133.04,237.82) --
+	(129.21,239.39) --
+	(125.39,240.92) --
+	(121.56,242.41) --
+	(117.73,243.88) --
+	(113.90,245.33) --
+	(110.08,246.75) --
+	(106.25,248.14) --
+	(102.42,249.51) --
+	( 98.59,250.86) --
+	( 94.77,252.19) --
+	( 90.94,253.49) --
+	( 87.11,254.79) --
+	( 83.29,256.06) --
+	( 79.46,257.32) --
+	( 75.63,258.56) --
+	( 71.80,259.79) --
+	( 67.98,261.01) --
+	cycle;
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 67.98,315.60) --
+	( 71.80,313.33) --
+	( 75.63,311.07) --
+	( 79.46,308.81) --
+	( 83.29,306.54) --
+	( 87.11,304.28) --
+	( 90.94,302.01) --
+	( 94.77,299.75) --
+	( 98.59,297.49) --
+	(102.42,295.22) --
+	(106.25,292.96) --
+	(110.08,290.70) --
+	(113.90,288.43) --
+	(117.73,286.17) --
+	(121.56,283.91) --
+	(125.39,281.64) --
+	(129.21,279.38) --
+	(133.04,277.12) --
+	(136.87,274.85) --
+	(140.69,272.59) --
+	(144.52,270.32) --
+	(148.35,268.06) --
+	(152.18,265.80) --
+	(156.00,263.53) --
+	(159.83,261.27) --
+	(163.66,259.01) --
+	(167.48,256.74) --
+	(171.31,254.48) --
+	(175.14,252.22) --
+	(178.97,249.95) --
+	(182.79,247.69) --
+	(186.62,245.42) --
+	(190.45,243.16) --
+	(194.27,240.90) --
+	(198.10,238.63) --
+	(201.93,236.37) --
+	(205.76,234.11) --
+	(209.58,231.84) --
+	(213.41,229.58) --
+	(217.24,227.32) --
+	(221.06,225.05) --
+	(224.89,222.79) --
+	(228.72,220.52) --
+	(232.55,218.26) --
+	(236.37,216.00) --
+	(240.20,213.73) --
+	(244.03,211.47) --
+	(247.85,209.21) --
+	(251.68,206.94) --
+	(255.51,204.68) --
+	(259.34,202.42) --
+	(263.16,200.15) --
+	(266.99,197.89) --
+	(270.82,195.63) --
+	(274.64,193.36) --
+	(278.47,191.10) --
+	(282.30,188.83) --
+	(286.13,186.57) --
+	(289.95,184.31) --
+	(293.78,182.04) --
+	(297.61,179.78) --
+	(301.43,177.52) --
+	(305.26,175.25) --
+	(309.09,172.99) --
+	(312.92,170.73) --
+	(316.74,168.46) --
+	(320.57,166.20) --
+	(324.40,163.93) --
+	(328.22,161.67) --
+	(332.05,159.41) --
+	(335.88,157.14) --
+	(339.71,154.88) --
+	(343.53,152.62) --
+	(347.36,150.35) --
+	(351.19,148.09) --
+	(355.01,145.83) --
+	(358.84,143.56) --
+	(362.67,141.30) --
+	(366.50,139.03) --
+	(370.32,136.77);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.13] at (334.66,155.80) {Australia};
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.13] at (181.21,198.80) {Canada};
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.13] at (116.36,345.43) {Iceland};
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.13] at (108.45,299.10) {Japan};
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.13] at (140.32,307.12) {Korea};
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.13] at (263.79,184.82) {Mexico};
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.13] at (203.08,165.35) {New Zealand};
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.13] at ( 86.16,330.01) {Norway};
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.13] at ( 56.38,350.02) {Switzerland};
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.13] at (105.48,223.06) {Turkey};
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  1.13] at (306.69,199.85) {United States};
+\definecolor[named]{fillColor}{rgb}{0.00,0.00,0.00}
+
+\draw[fill=fillColor,draw opacity=0.00,] (370.32,147.99) circle (  2.13);
+
+\draw[fill=fillColor,draw opacity=0.00,] (188.77,190.99) circle (  2.13);
+
+\draw[fill=fillColor,draw opacity=0.00,] (123.47,337.63) circle (  2.13);
+
+\draw[fill=fillColor,draw opacity=0.00,] (123.24,291.29) circle (  2.13);
+
+\draw[fill=fillColor,draw opacity=0.00,] (146.18,299.31) circle (  2.13);
+
+\draw[fill=fillColor,draw opacity=0.00,] (270.85,177.01) circle (  2.13);
+
+\draw[fill=fillColor,draw opacity=0.00,] (215.99,157.54) circle (  2.13);
+
+\draw[fill=fillColor,draw opacity=0.00,] (122.01,324.99) circle (  2.13);
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 67.98,342.21) circle (  2.13);
+
+\draw[fill=fillColor,draw opacity=0.00,] (112.41,215.25) circle (  2.13);
+
+\draw[fill=fillColor,draw opacity=0.00,] (351.17,192.04) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] ( 52.86, 49.87) rectangle (385.44,385.44);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (105.17, 36.15) {0.20};
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (149.36, 36.15) {0.25};
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (193.55, 36.15) {0.30};
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (237.75, 36.15) {0.35};
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (281.94, 36.15) {0.40};
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (326.13, 36.15) {0.45};
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (370.32, 36.15) {0.50};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\draw[color=drawColor,line width= 0.2pt,line cap=round,line join=round,fill opacity=0.00,] (105.17, 45.61) -- (105.17, 49.87);
+
+\draw[color=drawColor,line width= 0.2pt,line cap=round,line join=round,fill opacity=0.00,] (149.36, 45.61) -- (149.36, 49.87);
+
+\draw[color=drawColor,line width= 0.2pt,line cap=round,line join=round,fill opacity=0.00,] (193.55, 45.61) -- (193.55, 49.87);
+
+\draw[color=drawColor,line width= 0.2pt,line cap=round,line join=round,fill opacity=0.00,] (237.75, 45.61) -- (237.75, 49.87);
+
+\draw[color=drawColor,line width= 0.2pt,line cap=round,line join=round,fill opacity=0.00,] (281.94, 45.61) -- (281.94, 49.87);
+
+\draw[color=drawColor,line width= 0.2pt,line cap=round,line join=round,fill opacity=0.00,] (326.13, 45.61) -- (326.13, 49.87);
+
+\draw[color=drawColor,line width= 0.2pt,line cap=round,line join=round,fill opacity=0.00,] (370.32, 45.61) -- (370.32, 49.87);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.20] at (219.15, 24.87) {Cox Threshold };
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.20] at (219.15,  9.03) {(Average 1986 - 2000)};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[rotate= 90.00,color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.20] at ( 17.30,217.66) {Producer Support Estimate };
+
+\node[rotate= 90.00,color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  1.20] at ( 33.14,217.66) {(Average 1986 - 2000)};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (397.48,397.48);
+\end{scope}
+\end{tikzpicture}
+
+\end{document}

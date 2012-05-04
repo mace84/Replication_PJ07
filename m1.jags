@@ -1,0 +1,43 @@
+## Duke PS 303-MLE: Replication
+## Matthias Orlowski
+## 03/15/12
+## JAGS model for unconditional model 1
+
+model {
+  # base level (commodity, country year), no regressors
+  for(i in 1:n){
+    y[i] ~ dnorm(mu.y[i],tau.y)
+    mu.y[i] <- u.cy[countryyear[i]]*con[i] + u.com[commodity[i]]*con[i] 
+              + u.ctr[country[i]]*con[i]
+  }
+  # priors
+  tau.y ~ dgamma(.01,.01)
+  sigma.y  <- sqrt(1/tau.y)
+  
+  # country-year level. no regresors
+  for(j in 1:J){
+    u.cy[j] ~ dnorm(mu.cy,tau.cy)
+  }
+  # priors
+  tau.cy ~ dgamma(.01,.01)
+  sigma.cy <- sqrt(1/tau.cy)
+  mu.cy ~ dnorm(0,.01)
+
+  # country level. no regressors
+  for(k in 1:K){
+    u.ctr[k] ~ dnorm(mu.ctr,tau.ctr)
+  }
+  # priors
+  tau.ctr ~ dgamma(.01,.01)
+  sigma.ctr <- sqrt(1/tau.ctr)
+  mu.ctr ~ dnorm(0,.01)
+  
+  # commodity level. no regressors
+  for(l in 1:L){
+    u.com[l] ~ dnorm(mu.com,tau.com)
+  }
+  # priors
+  tau.com ~ dgamma(.01,.01)
+  sigma.com <- sqrt(1/tau.com)
+  mu.com ~ dnorm(0,.01)
+}

@@ -1,0 +1,1787 @@
+% Created by tikzDevice version 0.6.2 on 2012-04-27 21:03:56
+% !TEX encoding = UTF-8 Unicode
+\documentclass[10pt]{article}
+\usepackage{tikz}
+
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{sfmath}
+
+\usepackage[active,tightpage,psfixbb]{preview}
+
+\PreviewEnvironment{pgfpicture}
+
+\setlength\PreviewBorder{0pt}
+\begin{document}
+
+\begin{tikzpicture}[x=1pt,y=1pt]
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+\fill[color=fillColor,fill opacity=0.00,] (0,0) rectangle (542.02,344.73);
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] ( 27.42,237.68) rectangle (126.01,307.38);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (136.13,237.68) rectangle (234.72,307.38);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (244.84,237.68) rectangle (343.43,307.38);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (353.55,237.68) rectangle (452.14,307.38);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] ( 27.42,132.55) rectangle (126.01,202.25);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (136.13,132.55) rectangle (234.72,202.25);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (244.84,132.55) rectangle (343.43,202.25);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (353.55,132.55) rectangle (452.14,202.25);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] ( 27.42, 27.42) rectangle (126.01, 97.12);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (136.13, 27.42) rectangle (234.72, 97.12);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+
+\draw[fill opacity=0.00,draw opacity=0.00,] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] ( 27.42,237.68) rectangle (126.01,307.38);
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 27.42,237.68) rectangle (126.01,307.38);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.08}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 51.12,241.78) -- (110.48,241.78);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.08}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 80.87,241.78) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.32}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 43.35,248.61) -- (103.67,248.61);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.32}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 73.96,248.61) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.53,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 61.98,255.45) -- (121.53,255.45);
+\definecolor[named]{fillColor}{rgb}{0.53,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 91.73,255.45) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.28,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 49.39,262.28) -- (111.16,262.28);
+\definecolor[named]{fillColor}{rgb}{0.28,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 80.22,262.28) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.06,0.07,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 47.16,269.11) -- (107.91,269.11);
+\definecolor[named]{fillColor}{rgb}{0.06,0.07,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 77.71,269.11) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 41.05,275.94) -- (101.87,275.94);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 71.47,275.94) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 53.42,282.78) -- (115.94,282.78);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 84.78,282.78) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.47,0.90}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 50.03,289.61) -- (110.13,289.61);
+\definecolor[named]{fillColor}{rgb}{0.00,0.47,0.90}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 80.13,289.61) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.66}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 51.64,296.44) -- (112.97,296.44);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.66}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 82.34,296.44) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.17}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 31.90,303.28) -- ( 98.03,303.28);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.17}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 65.17,303.28) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\draw[color=drawColor,line width= 0.6pt,dash pattern=on 4pt off 4pt ,line join=round,fill opacity=0.00,] (103.65,237.68) -- (103.65,307.38);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] ( 27.42,237.68) rectangle (126.01,307.38);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (136.13,237.68) rectangle (234.72,307.38);
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+
+\draw[fill=fillColor,draw opacity=0.00,] (136.13,237.68) rectangle (234.72,307.38);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.08}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (196.12,241.78) -- (229.69,241.78);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.08}
+
+\draw[fill=fillColor,draw opacity=0.00,] (212.88,241.78) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.32}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (190.15,248.61) -- (223.11,248.61);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.32}
+
+\draw[fill=fillColor,draw opacity=0.00,] (206.61,248.61) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.53,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (194.13,255.45) -- (227.71,255.45);
+\definecolor[named]{fillColor}{rgb}{0.53,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (210.91,255.45) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.28,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (195.78,262.28) -- (228.63,262.28);
+\definecolor[named]{fillColor}{rgb}{0.28,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (212.23,262.28) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.06,0.07,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (197.06,269.11) -- (229.62,269.11);
+\definecolor[named]{fillColor}{rgb}{0.06,0.07,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (213.31,269.11) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (194.03,275.94) -- (227.44,275.94);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (210.70,275.94) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (187.24,282.78) -- (219.62,282.78);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (203.45,282.78) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.47,0.90}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (196.06,289.61) -- (229.29,289.61);
+\definecolor[named]{fillColor}{rgb}{0.00,0.47,0.90}
+
+\draw[fill=fillColor,draw opacity=0.00,] (212.74,289.61) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.66}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (197.63,296.44) -- (230.24,296.44);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.66}
+
+\draw[fill=fillColor,draw opacity=0.00,] (213.98,296.44) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.17}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (191.57,303.28) -- (224.88,303.28);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.17}
+
+\draw[fill=fillColor,draw opacity=0.00,] (208.23,303.28) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\draw[color=drawColor,line width= 0.6pt,dash pattern=on 4pt off 4pt ,line join=round,fill opacity=0.00,] (140.61,237.68) -- (140.61,307.38);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (136.13,237.68) rectangle (234.72,307.38);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (244.84,237.68) rectangle (343.43,307.38);
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+
+\draw[fill=fillColor,draw opacity=0.00,] (244.84,237.68) rectangle (343.43,307.38);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.08}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (261.40,241.78) -- (324.98,241.78);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.08}
+
+\draw[fill=fillColor,draw opacity=0.00,] (293.29,241.78) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.32}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (263.73,248.61) -- (328.02,248.61);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.32}
+
+\draw[fill=fillColor,draw opacity=0.00,] (295.88,248.61) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.53,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (251.79,255.45) -- (316.50,255.45);
+\definecolor[named]{fillColor}{rgb}{0.53,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (284.13,255.45) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.28,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (269.88,262.28) -- (334.14,262.28);
+\definecolor[named]{fillColor}{rgb}{0.28,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (301.68,262.28) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.06,0.07,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (272.92,269.11) -- (338.95,269.11);
+\definecolor[named]{fillColor}{rgb}{0.06,0.07,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (305.86,269.11) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (249.32,275.94) -- (316.53,275.94);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (282.85,275.94) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (253.85,282.78) -- (321.66,282.78);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (287.69,282.78) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.47,0.90}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (256.10,289.61) -- (321.20,289.61);
+\definecolor[named]{fillColor}{rgb}{0.00,0.47,0.90}
+
+\draw[fill=fillColor,draw opacity=0.00,] (288.55,289.61) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.66}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (263.88,296.44) -- (327.86,296.44);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.66}
+
+\draw[fill=fillColor,draw opacity=0.00,] (295.86,296.44) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.17}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (263.26,303.28) -- (328.41,303.28);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.17}
+
+\draw[fill=fillColor,draw opacity=0.00,] (295.73,303.28) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\draw[color=drawColor,line width= 0.6pt,dash pattern=on 4pt off 4pt ,line join=round,fill opacity=0.00,] (330.04,237.68) -- (330.04,307.38);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (244.84,237.68) rectangle (343.43,307.38);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (353.55,237.68) rectangle (452.14,307.38);
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+
+\draw[fill=fillColor,draw opacity=0.00,] (353.55,237.68) rectangle (452.14,307.38);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.08}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (359.57,241.78) -- (430.79,241.78);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.08}
+
+\draw[fill=fillColor,draw opacity=0.00,] (396.10,241.78) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.32}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (362.94,248.61) -- (433.66,248.61);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.32}
+
+\draw[fill=fillColor,draw opacity=0.00,] (398.93,248.61) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.53,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (373.63,255.45) -- (441.26,255.45);
+\definecolor[named]{fillColor}{rgb}{0.53,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (407.35,255.45) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.28,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (373.69,262.28) -- (444.07,262.28);
+\definecolor[named]{fillColor}{rgb}{0.28,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (408.71,262.28) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.06,0.07,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (358.03,269.11) -- (430.17,269.11);
+\definecolor[named]{fillColor}{rgb}{0.06,0.07,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (394.95,269.11) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (360.92,275.94) -- (431.71,275.94);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (396.16,275.94) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (370.88,282.78) -- (438.98,282.78);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (404.48,282.78) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.47,0.90}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (374.86,289.61) -- (447.66,289.61);
+\definecolor[named]{fillColor}{rgb}{0.00,0.47,0.90}
+
+\draw[fill=fillColor,draw opacity=0.00,] (410.10,289.61) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.66}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (365.29,296.44) -- (436.65,296.44);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.66}
+
+\draw[fill=fillColor,draw opacity=0.00,] (401.00,296.44) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.17}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (365.40,303.28) -- (437.53,303.28);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.17}
+
+\draw[fill=fillColor,draw opacity=0.00,] (401.21,303.28) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\draw[color=drawColor,line width= 0.6pt,dash pattern=on 4pt off 4pt ,line join=round,fill opacity=0.00,] (369.61,237.68) -- (369.61,307.38);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (353.55,237.68) rectangle (452.14,307.38);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] ( 27.42,132.55) rectangle (126.01,202.25);
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 27.42,132.55) rectangle (126.01,202.25);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.08}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 36.96,136.65) -- (115.74,136.65);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.08}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 72.07,136.65) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.32}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 38.00,143.48) -- (116.00,143.48);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.32}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 73.32,143.48) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.53,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 37.67,150.32) -- (115.95,150.32);
+\definecolor[named]{fillColor}{rgb}{0.53,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 72.47,150.32) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.28,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 35.89,157.15) -- (110.06,157.15);
+\definecolor[named]{fillColor}{rgb}{0.28,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 69.91,157.15) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.06,0.07,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 35.51,163.98) -- (115.57,163.98);
+\definecolor[named]{fillColor}{rgb}{0.06,0.07,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 71.44,163.98) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 33.54,170.82) -- (113.92,170.82);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 69.04,170.82) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 31.90,177.65) -- (106.50,177.65);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 65.33,177.65) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.47,0.90}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 37.73,184.48) -- (121.53,184.48);
+\definecolor[named]{fillColor}{rgb}{0.00,0.47,0.90}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 74.82,184.48) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.66}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 37.27,191.32) -- (117.49,191.32);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.66}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 73.31,191.32) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.17}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 33.31,198.15) -- (111.39,198.15);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.17}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 68.65,198.15) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\draw[color=drawColor,line width= 0.6pt,dash pattern=on 4pt off 4pt ,line join=round,fill opacity=0.00,] ( 88.16,132.55) -- ( 88.16,202.25);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] ( 27.42,132.55) rectangle (126.01,202.25);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (136.13,132.55) rectangle (234.72,202.25);
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+
+\draw[fill=fillColor,draw opacity=0.00,] (136.13,132.55) rectangle (234.72,202.25);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.08}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (145.71,136.65) -- (212.03,136.65);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.08}
+
+\draw[fill=fillColor,draw opacity=0.00,] (180.34,136.65) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.32}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (145.73,143.48) -- (213.92,143.48);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.32}
+
+\draw[fill=fillColor,draw opacity=0.00,] (181.55,143.48) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.53,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (151.98,150.32) -- (215.76,150.32);
+\definecolor[named]{fillColor}{rgb}{0.53,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (185.45,150.32) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.28,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (143.27,157.15) -- (210.06,157.15);
+\definecolor[named]{fillColor}{rgb}{0.28,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (178.03,157.15) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.06,0.07,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (143.85,163.98) -- (212.25,163.98);
+\definecolor[named]{fillColor}{rgb}{0.06,0.07,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (179.63,163.98) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (145.23,170.82) -- (211.12,170.82);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (179.80,170.82) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (153.22,177.65) -- (217.07,177.65);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (186.49,177.65) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.47,0.90}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (142.61,184.48) -- (211.24,184.48);
+\definecolor[named]{fillColor}{rgb}{0.00,0.47,0.90}
+
+\draw[fill=fillColor,draw opacity=0.00,] (178.72,184.48) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.66}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (143.47,191.32) -- (212.22,191.32);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.66}
+
+\draw[fill=fillColor,draw opacity=0.00,] (179.58,191.32) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.17}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (140.61,198.15) -- (208.85,198.15);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.17}
+
+\draw[fill=fillColor,draw opacity=0.00,] (176.26,198.15) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\draw[color=drawColor,line width= 0.6pt,dash pattern=on 4pt off 4pt ,line join=round,fill opacity=0.00,] (230.24,132.55) -- (230.24,202.25);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (136.13,132.55) rectangle (234.72,202.25);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (244.84,132.55) rectangle (343.43,202.25);
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+
+\draw[fill=fillColor,draw opacity=0.00,] (244.84,132.55) rectangle (343.43,202.25);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.08}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (276.55,136.65) -- (333.45,136.65);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.08}
+
+\draw[fill=fillColor,draw opacity=0.00,] (304.94,136.65) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.32}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (274.95,143.48) -- (330.75,143.48);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.32}
+
+\draw[fill=fillColor,draw opacity=0.00,] (302.73,143.48) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.53,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (277.14,150.32) -- (332.99,150.32);
+\definecolor[named]{fillColor}{rgb}{0.53,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (305.00,150.32) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.28,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (249.32,157.15) -- (308.17,157.15);
+\definecolor[named]{fillColor}{rgb}{0.28,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (278.72,157.15) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.06,0.07,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (280.27,163.98) -- (334.82,163.98);
+\definecolor[named]{fillColor}{rgb}{0.06,0.07,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (307.54,163.98) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (278.55,170.82) -- (337.53,170.82);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (308.01,170.82) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (277.25,177.65) -- (338.95,177.65);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (308.06,177.65) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.47,0.90}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (268.82,184.48) -- (325.05,184.48);
+\definecolor[named]{fillColor}{rgb}{0.00,0.47,0.90}
+
+\draw[fill=fillColor,draw opacity=0.00,] (296.95,184.48) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.66}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (280.14,191.32) -- (338.69,191.32);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.66}
+
+\draw[fill=fillColor,draw opacity=0.00,] (309.34,191.32) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.17}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (267.88,198.15) -- (323.74,198.15);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.17}
+
+\draw[fill=fillColor,draw opacity=0.00,] (295.79,198.15) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\draw[color=drawColor,line width= 0.6pt,dash pattern=on 4pt off 4pt ,line join=round,fill opacity=0.00,] (269.39,132.55) -- (269.39,202.25);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (244.84,132.55) rectangle (343.43,202.25);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (353.55,132.55) rectangle (452.14,202.25);
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+
+\draw[fill=fillColor,draw opacity=0.00,] (353.55,132.55) rectangle (452.14,202.25);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.08}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (358.03,136.65) -- (385.75,136.65);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.08}
+
+\draw[fill=fillColor,draw opacity=0.00,] (371.94,136.65) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.32}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (362.06,143.48) -- (388.97,143.48);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.32}
+
+\draw[fill=fillColor,draw opacity=0.00,] (375.51,143.48) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.53,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (359.35,150.32) -- (387.30,150.32);
+\definecolor[named]{fillColor}{rgb}{0.53,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (373.33,150.32) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.28,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (360.95,157.15) -- (387.68,157.15);
+\definecolor[named]{fillColor}{rgb}{0.28,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (374.27,157.15) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.06,0.07,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (358.08,163.98) -- (385.37,163.98);
+\definecolor[named]{fillColor}{rgb}{0.06,0.07,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (371.73,163.98) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (361.77,170.82) -- (389.65,170.82);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (375.75,170.82) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (367.46,177.65) -- (394.43,177.65);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (380.95,177.65) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.47,0.90}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (361.34,184.48) -- (389.20,184.48);
+\definecolor[named]{fillColor}{rgb}{0.00,0.47,0.90}
+
+\draw[fill=fillColor,draw opacity=0.00,] (375.29,184.48) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.66}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (360.09,191.32) -- (387.05,191.32);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.66}
+
+\draw[fill=fillColor,draw opacity=0.00,] (373.55,191.32) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.17}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (366.17,198.15) -- (393.84,198.15);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.17}
+
+\draw[fill=fillColor,draw opacity=0.00,] (380.04,198.15) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\draw[color=drawColor,line width= 0.6pt,dash pattern=on 4pt off 4pt ,line join=round,fill opacity=0.00,] (447.66,132.55) -- (447.66,202.25);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (353.55,132.55) rectangle (452.14,202.25);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] ( 27.42, 27.42) rectangle (126.01, 97.12);
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 27.42, 27.42) rectangle (126.01, 97.12);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.08}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 37.01, 31.52) -- (109.79, 31.52);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.08}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 73.15, 31.52) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.32}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 49.34, 38.36) -- (121.53, 38.36);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.32}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 84.64, 38.36) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.53,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 41.53, 45.19) -- (111.45, 45.19);
+\definecolor[named]{fillColor}{rgb}{0.53,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 76.05, 45.19) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.28,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 31.90, 52.02) -- (102.96, 52.02);
+\definecolor[named]{fillColor}{rgb}{0.28,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 67.41, 52.02) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.06,0.07,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 43.87, 58.86) -- (117.67, 58.86);
+\definecolor[named]{fillColor}{rgb}{0.06,0.07,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 79.86, 58.86) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 33.10, 65.69) -- (109.99, 65.69);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 70.57, 65.69) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 42.56, 72.52) -- (117.94, 72.52);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 79.15, 72.52) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.47,0.90}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 40.57, 79.35) -- (115.66, 79.35);
+\definecolor[named]{fillColor}{rgb}{0.00,0.47,0.90}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 76.99, 79.35) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.66}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 36.81, 86.19) -- (109.90, 86.19);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.66}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 72.78, 86.19) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.17}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] ( 42.04, 93.02) -- (116.95, 93.02);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.17}
+
+\draw[fill=fillColor,draw opacity=0.00,] ( 78.21, 93.02) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\draw[color=drawColor,line width= 0.6pt,dash pattern=on 4pt off 4pt ,line join=round,fill opacity=0.00,] ( 82.79, 27.42) -- ( 82.79, 97.12);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] ( 27.42, 27.42) rectangle (126.01, 97.12);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (136.13, 27.42) rectangle (234.72, 97.12);
+\definecolor[named]{fillColor}{rgb}{1.00,1.00,1.00}
+
+\draw[fill=fillColor,draw opacity=0.00,] (136.13, 27.42) rectangle (234.72, 97.12);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.08}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (143.79, 31.52) -- (190.39, 31.52);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.08}
+
+\draw[fill=fillColor,draw opacity=0.00,] (167.10, 31.52) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.32}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (153.54, 38.36) -- (200.42, 38.36);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.32}
+
+\draw[fill=fillColor,draw opacity=0.00,] (176.97, 38.36) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.53,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (147.69, 45.19) -- (193.74, 45.19);
+\definecolor[named]{fillColor}{rgb}{0.53,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (170.48, 45.19) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.28,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (146.44, 52.02) -- (192.23, 52.02);
+\definecolor[named]{fillColor}{rgb}{0.28,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (169.04, 52.02) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.06,0.07,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (152.85, 58.86) -- (199.60, 58.86);
+\definecolor[named]{fillColor}{rgb}{0.06,0.07,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (175.99, 58.86) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (140.61, 65.69) -- (188.22, 65.69);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (164.20, 65.69) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (146.64, 72.52) -- (194.27, 72.52);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (170.21, 72.52) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.47,0.90}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (142.33, 79.35) -- (190.40, 79.35);
+\definecolor[named]{fillColor}{rgb}{0.00,0.47,0.90}
+
+\draw[fill=fillColor,draw opacity=0.00,] (166.27, 79.35) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.66}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (143.27, 86.19) -- (189.74, 86.19);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.66}
+
+\draw[fill=fillColor,draw opacity=0.00,] (166.24, 86.19) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.17}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (141.81, 93.02) -- (191.34, 93.02);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.17}
+
+\draw[fill=fillColor,draw opacity=0.00,] (166.38, 93.02) circle (  2.13);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\draw[color=drawColor,line width= 0.6pt,dash pattern=on 4pt off 4pt ,line join=round,fill opacity=0.00,] (230.24, 27.42) -- (230.24, 97.12);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (136.13, 27.42) rectangle (234.72, 97.12);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+\definecolor[named]{fillColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill=fillColor,] ( 27.42,307.38) rectangle (126.01,332.68);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at ( 76.72,323.06) {Agricultural };
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at ( 76.72,310.39) {Share};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+\definecolor[named]{fillColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill=fillColor,] (136.13,307.38) rectangle (234.72,332.68);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (185.43,316.72) {Consumption};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+\definecolor[named]{fillColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill=fillColor,] (244.84,307.38) rectangle (343.43,332.68);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (294.14,323.06) {Cox };
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (294.14,310.39) {Threshold};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+\definecolor[named]{fillColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill=fillColor,] (353.55,307.38) rectangle (452.14,332.68);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (402.85,316.72) {GDP};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+\definecolor[named]{fillColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill=fillColor,] ( 27.42,202.25) rectangle (126.01,227.55);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at ( 76.72,217.93) {Land per };
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at ( 76.72,205.26) {Labor};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+\definecolor[named]{fillColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill=fillColor,] (136.13,202.25) rectangle (234.72,227.55);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (185.43,217.93) {Personal };
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (185.43,205.26) {Vote};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+\definecolor[named]{fillColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill=fillColor,] (244.84,202.25) rectangle (343.43,227.55);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (294.14,217.93) {Political };
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (294.14,205.26) {Constraints};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+\definecolor[named]{fillColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill=fillColor,] (353.55,202.25) rectangle (452.14,227.55);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (402.85,211.60) {Production};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+\definecolor[named]{fillColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill=fillColor,] ( 27.42, 97.12) rectangle (126.01,122.43);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at ( 76.72,112.80) {Rural };
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at ( 76.72,100.13) {Population};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.50,0.50,0.50}
+\definecolor[named]{fillColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill=fillColor,] (136.13, 97.12) rectangle (234.72,122.43);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base,inner sep=0pt, outer sep=0pt, scale=  0.96] at (185.43,106.47) {Year};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+
+\draw[fill opacity=0.00,draw opacity=0.00,] (461.01, 79.41) rectangle (521.11,255.39);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.96] at (465.28,244.50) {\bfseries Subsample };
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.96] at (465.28,231.83) {\bfseries Excluded};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (465.28,213.76) rectangle (479.73,228.21);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.08}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (466.72,220.99) -- (478.28,220.99);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.08}
+
+\draw[fill=fillColor,draw opacity=0.00,] (472.50,220.99) circle (  2.13);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (465.28,199.31) rectangle (479.73,213.76);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.54,0.06,0.32}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (466.72,206.53) -- (478.28,206.53);
+\definecolor[named]{fillColor}{rgb}{0.54,0.06,0.32}
+
+\draw[fill=fillColor,draw opacity=0.00,] (472.50,206.53) circle (  2.13);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (465.28,184.85) rectangle (479.73,199.31);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.53,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (466.72,192.08) -- (478.28,192.08);
+\definecolor[named]{fillColor}{rgb}{0.53,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (472.50,192.08) circle (  2.13);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (465.28,170.40) rectangle (479.73,184.85);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.28,0.06,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (466.72,177.63) -- (478.28,177.63);
+\definecolor[named]{fillColor}{rgb}{0.28,0.06,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (472.50,177.63) circle (  2.13);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (465.28,155.94) rectangle (479.73,170.40);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.06,0.07,0.54}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (466.72,163.17) -- (478.28,163.17);
+\definecolor[named]{fillColor}{rgb}{0.06,0.07,0.54}
+
+\draw[fill=fillColor,draw opacity=0.00,] (472.50,163.17) circle (  2.13);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (465.28,141.49) rectangle (479.73,155.94);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (466.72,148.72) -- (478.28,148.72);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (472.50,148.72) circle (  2.13);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (465.28,127.04) rectangle (479.73,141.49);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.22,0.42}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (466.72,134.26) -- (478.28,134.26);
+\definecolor[named]{fillColor}{rgb}{0.00,0.22,0.42}
+
+\draw[fill=fillColor,draw opacity=0.00,] (472.50,134.26) circle (  2.13);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (465.28,112.58) rectangle (479.73,127.04);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.47,0.90}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (466.72,119.81) -- (478.28,119.81);
+\definecolor[named]{fillColor}{rgb}{0.00,0.47,0.90}
+
+\draw[fill=fillColor,draw opacity=0.00,] (472.50,119.81) circle (  2.13);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (465.28, 98.13) rectangle (479.73,112.58);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.66}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (466.72,105.36) -- (478.28,105.36);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.66}
+
+\draw[fill=fillColor,draw opacity=0.00,] (472.50,105.36) circle (  2.13);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.80,0.80,0.80}
+
+\draw[color=drawColor,line width= 0.6pt,line cap=round,line join=round,fill opacity=0.00,] (465.28, 83.67) rectangle (479.73, 98.13);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.34,0.17}
+
+\draw[color=drawColor,line width= 0.6pt,line join=round,fill opacity=0.00,] (466.72, 90.90) -- (478.28, 90.90);
+\definecolor[named]{fillColor}{rgb}{0.00,0.34,0.17}
+
+\draw[fill=fillColor,draw opacity=0.00,] (472.50, 90.90) circle (  2.13);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.96] at (481.54,217.68) {A};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.96] at (481.54,203.23) {B};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.96] at (481.54,188.77) {C};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.96] at (481.54,174.32) {D};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.96] at (481.54,159.87) {E};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.96] at (481.54,145.41) {F};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.96] at (481.54,130.96) {G};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.96] at (481.54,116.50) {H};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.96] at (481.54,102.05) {I};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\definecolor[named]{drawColor}{rgb}{0.00,0.00,0.00}
+
+\node[color=drawColor,anchor=base west,inner sep=0pt, outer sep=0pt, scale=  0.96] at (481.54, 87.60) {J};
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\begin{scope}
+\path[clip] (  0.00,  0.00) rectangle (542.02,344.73);
+\end{scope}
+\end{tikzpicture}
+
+\end{document}
